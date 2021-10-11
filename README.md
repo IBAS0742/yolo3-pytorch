@@ -1,3 +1,15 @@
+写在前面的话
+
+```
+1. 相关数据上传到了 qq群：685219528
+2. cuda 为 10 版本（不用在意小版本）
+3. 使用 python 3.6
+4. pip install 两个 whl 文件后执行
+    pip install numpy -I
+    pip install opencv-python
+```
+
+
 ## YOLOV3：You Only Look Once目标检测模型在Pytorch当中的实现
 ---
 
