@@ -7,6 +7,9 @@
 4. pip install 两个 whl 文件后执行
     pip install numpy -I
     pip install opencv-python
+    pip install scipy
+    pip install matplotlib
+    pip install tqdm
 
 使用 ani_pred.py 需要安装 pyautogui
 pip install pyautogui
